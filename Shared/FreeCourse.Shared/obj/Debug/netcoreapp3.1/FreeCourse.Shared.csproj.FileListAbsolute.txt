@@ -1,0 +1,10 @@
+F:\Projeler\EgitimProjeleri\ReferansProjeler\UdemyMicroservice\MicroserviceSolution\Shared\FreeCourse.Shared\bin\Debug\netcoreapp3.1\FreeCourse.Shared.deps.json
+F:\Projeler\EgitimProjeleri\ReferansProjeler\UdemyMicroservice\MicroserviceSolution\Shared\FreeCourse.Shared\bin\Debug\netcoreapp3.1\FreeCourse.Shared.dll
+F:\Projeler\EgitimProjeleri\ReferansProjeler\UdemyMicroservice\MicroserviceSolution\Shared\FreeCourse.Shared\bin\Debug\netcoreapp3.1\FreeCourse.Shared.pdb
+F:\Projeler\EgitimProjeleri\ReferansProjeler\UdemyMicroservice\MicroserviceSolution\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.csproj.AssemblyReference.cache
+F:\Projeler\EgitimProjeleri\ReferansProjeler\UdemyMicroservice\MicroserviceSolution\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projeler\EgitimProjeleri\ReferansProjeler\UdemyMicroservice\MicroserviceSolution\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.AssemblyInfoInputs.cache
+F:\Projeler\EgitimProjeleri\ReferansProjeler\UdemyMicroservice\MicroserviceSolution\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.AssemblyInfo.cs
+F:\Projeler\EgitimProjeleri\ReferansProjeler\UdemyMicroservice\MicroserviceSolution\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.csproj.CoreCompileInputs.cache
+F:\Projeler\EgitimProjeleri\ReferansProjeler\UdemyMicroservice\MicroserviceSolution\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.dll
+F:\Projeler\EgitimProjeleri\ReferansProjeler\UdemyMicroservice\MicroserviceSolution\Shared\FreeCourse.Shared\obj\Debug\netcoreapp3.1\FreeCourse.Shared.pdb

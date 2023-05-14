@@ -1,0 +1,12 @@
+F:\Projeler\EgitimProjeleri\ReferansProjeler\UdemyMicroservice\MicroserviceSolution\Services\Order\FreeCourse.Services.Order.Domain.Core\bin\Debug\net5.0\FreeCourse.Services.Order.Domain.Core.deps.json
+F:\Projeler\EgitimProjeleri\ReferansProjeler\UdemyMicroservice\MicroserviceSolution\Services\Order\FreeCourse.Services.Order.Domain.Core\bin\Debug\net5.0\FreeCourse.Services.Order.Domain.Core.dll
+F:\Projeler\EgitimProjeleri\ReferansProjeler\UdemyMicroservice\MicroserviceSolution\Services\Order\FreeCourse.Services.Order.Domain.Core\bin\Debug\net5.0\ref\FreeCourse.Services.Order.Domain.Core.dll
+F:\Projeler\EgitimProjeleri\ReferansProjeler\UdemyMicroservice\MicroserviceSolution\Services\Order\FreeCourse.Services.Order.Domain.Core\bin\Debug\net5.0\FreeCourse.Services.Order.Domain.Core.pdb
+F:\Projeler\EgitimProjeleri\ReferansProjeler\UdemyMicroservice\MicroserviceSolution\Services\Order\FreeCourse.Services.Order.Domain.Core\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projeler\EgitimProjeleri\ReferansProjeler\UdemyMicroservice\MicroserviceSolution\Services\Order\FreeCourse.Services.Order.Domain.Core\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.Core.AssemblyInfoInputs.cache
+F:\Projeler\EgitimProjeleri\ReferansProjeler\UdemyMicroservice\MicroserviceSolution\Services\Order\FreeCourse.Services.Order.Domain.Core\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.Core.AssemblyInfo.cs
+F:\Projeler\EgitimProjeleri\ReferansProjeler\UdemyMicroservice\MicroserviceSolution\Services\Order\FreeCourse.Services.Order.Domain.Core\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.Core.csproj.CoreCompileInputs.cache
+F:\Projeler\EgitimProjeleri\ReferansProjeler\UdemyMicroservice\MicroserviceSolution\Services\Order\FreeCourse.Services.Order.Domain.Core\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.Core.dll
+F:\Projeler\EgitimProjeleri\ReferansProjeler\UdemyMicroservice\MicroserviceSolution\Services\Order\FreeCourse.Services.Order.Domain.Core\obj\Debug\net5.0\ref\FreeCourse.Services.Order.Domain.Core.dll
+F:\Projeler\EgitimProjeleri\ReferansProjeler\UdemyMicroservice\MicroserviceSolution\Services\Order\FreeCourse.Services.Order.Domain.Core\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.Core.pdb
+F:\Projeler\EgitimProjeleri\ReferansProjeler\UdemyMicroservice\MicroserviceSolution\Services\Order\FreeCourse.Services.Order.Domain.Core\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.Core.csproj.AssemblyReference.cache
